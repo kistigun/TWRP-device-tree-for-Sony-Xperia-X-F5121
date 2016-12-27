@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_kugo.mk
+    $(LOCAL_DIR)/full_suzu.mk
